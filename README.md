@@ -1,2 +1,5 @@
-# northrop-sharepoint-wiki-privacy
-Privacy policy for the Northrop SharePoint Wiki
+# Northrop SharePoint Wiki Chrome Extension Privacy Policy
+
+I confirm that this Chrome Extension does not collect or handle personal or sensitive user data in any way.
+
+**Nicholas Boey, Principal, Northrop Consulting Engineers**
